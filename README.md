@@ -1,1 +1,2 @@
-# KIT
+# KIT <br>
+Stack: React
