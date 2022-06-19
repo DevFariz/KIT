@@ -1,2 +1,3 @@
 # KIT <br>
-Stack: React
+Stack: React <br>
+Checking usage of github with react
